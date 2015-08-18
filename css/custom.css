@@ -1,0 +1,147 @@
+.abcd{
+	font-size: 20px;
+	font-family: timesnewroman;
+	color: 
+}
+.panal{
+  margin-left: 600px;
+}
+.myform{
+   background: pink;
+   border-radius: 4px;
+   margin-bottom: 30px;
+   height: 667px;
+}
+.myform h3{
+  text-align: center;
+  text-decoration: underline;
+}
+#menu {
+  width: 13%;
+  float: left;
+  border-right: 1px solid pink;
+  border-right-style: dashed;
+  margin-top: 5px;
+}
+user agent stylesheetdiv {
+  display: block;
+}
+h2.spanh2 {
+  margin: 0px;
+  padding: 0px;
+}
+h2 {
+  display: block;
+  font-size: 1.5em;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+span.spanh2 {
+  color: #DF3A01;
+  font-weight: bold;
+  line-height: 0px;
+  font: 15px verdana,helvetica,arial,sans-serif;
+  display: inline;
+}
+.leftmenu2 span {
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+  font-family: erdana,helvetica,arial,sans-serif;
+  color: #610B38;
+  padding-left: 11px;
+  font-weight: 700;
+  font-size: 15px;
+  display: block;
+  background: url(images/icon_bullet.png) no-repeat 0px 0px;
+}
+Inherited from 
+user agent stylesheeth2 {
+  display: block;
+  font-size: 1.5em;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+.leftmenu a:active{
+  width: 100%;
+  display: block;
+  font: 13px verdana,helvetica,arial,sans-serif;
+  line-height: 21px;
+  margin-left: 11px;
+  margin-top: 2px;
+  float: left;
+  color: green;
+  background: url(images/arrowbullet.png) no-repeat 0 4px;
+  padding-left: 15px;
+  text-decoration: underline;
+}
+.leftmenu a:hover {
+  width: 100%;
+  display: block;
+  font: 15px verdana,helvetica,arial,sans-serif;
+  line-height: 22px;
+  margin-left: 14px;
+  margin-top: 2px;
+  float: left;
+  color: green;
+  background: url(images/arrowbullet.png) no-repeat 0 4px;
+  padding-left: 11px;
+  text-decoration: underline;
+}
+.leftmenu a:link, .leftmenu a:visited {
+  width: 100%;
+  display: block;
+  font: 13px verdana,helvetica,arial,sans-serif;
+  line-height: 21px;
+  margin-left: 14px;
+  margin-top: 2px;
+  float: left;
+  color: #000;
+  background: url(images/arrowbullet.png) no-repeat 0 4px;
+  padding-left: 15px;
+  text-decoration: none;
+}
+.leftmenu a:link, .leftmenu a:visited {
+  width: 100%;
+  display: block;
+  font: 13px verdana,helvetica,arial,sans-serif;
+  line-height: 21px;
+  margin-left: 14px;
+  margin-top: 2px;
+  float: left;
+  color: #000;
+  background: url(images/arrowbullet.png) no-repeat 0 4px;
+  padding-left: 15px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+a {
+  color: green;
+  text-decoration: none;
+}
+user agent stylesheeta:-webkit-any-link:active {
+  color: -webkit-activelink;
+}
+user agent stylesheeta:-webkit-any-link {
+  color: -webkit-link;
+  text-decoration: underline;
+  cursor: auto;
+}
+user agent stylesheet:focus {
+  outline: -webkit-focus-ring-color auto 5px;
+}
+:focus {
+  outline: -webkit-focus-ring-color auto 5px;
+  outline-color: -webkit-focus-ring-color;
+  outline-style: auto;
+  outline-width: 5px;
+}

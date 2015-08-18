@@ -1,0 +1,39 @@
+form {
+	    background-color: #555;
+	    display: block;
+	    padding: 15px;
+	}
+	input[type=text], input[type=password], input[type=submit] {
+	    -moz-border-radius: 2px;
+	    -ms-border-radius: 2px;
+	    -o-border-radius: 2px;
+	    -webkit-border-radius: 2px;
+	    border-radius: 2px;
+	}
+	input[type=text], input[type=password], select {
+	    background-color: rgb(246, 254, 231);
+	    border-color: rgb(180, 207, 94);
+	    border-style: solid;
+	    border-width: 1px;
+	    font-size: 16px;
+	    height: 25px;
+	    margin-right: 10px;
+	    width: 200px;
+	}
+	input[type=submit]{
+	    cursor: pointer;
+	    font-size: 16px;
+	    height: 35px;
+	    padding: 5px;
+	}
+	input.wrong {
+	    border-color: rgb(180, 207, 94);
+	    background-color: rgb(255, 183, 183);
+	}
+	input.correct {
+	    border-color: rgb(180, 207, 94);
+	    background-color: rgb(220, 251, 164);
+	}
+	#pass_result {
+	    float: right;
+	}
