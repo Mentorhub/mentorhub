@@ -29,6 +29,7 @@
       <input type="text" name="lname" class="form-control" placeholder="lastname" value=<?php echo $lname; ?>>
     </div>
 
+
     <div class="form-group">
       <label for="exampleInputEmail1">Email address*</label>
       <input type="text" name="email" class="form-control" id="exampleInputEmail1" placeholder="email" 
